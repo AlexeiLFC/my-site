@@ -1,3 +1,8 @@
-body { background-color: white; color: black;}
+* { box-sizing: border-box; }
+body { background-color: rgb(248, 152, 152); color: black;}
 h1, h2 { color:red;}
 p { font-size: 18px; }
+.section { background-color: white }
+.legend {color:red; }
+.highlight {background-color: rgb(245, 255, 158)}
+.spoiler {color:white}
